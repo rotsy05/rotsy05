@@ -11,7 +11,10 @@
 
 ## 🛫 Qui suis-je ?
 
-Je partage mon temps entre les calculs de structure et le développement d'outils qui règlent de vrais problèmes. Que ce soit pour fouiller dans 2000 pages d'AMM avec un LLM (DocAero) ou gamifier ma productivité (Bloomie), je pars du principe que si une tâche est répétitive, elle mérite son extension Chrome ou son IA.
+Étudiante passionnée en **Ingénierie Aéronautique**, je suis fascinée par la convergence entre les systèmes physiques complexes et la puissance du logiciel. Je ne me contente pas d'étudier comment les avions volent ; j'utilise l'**Intelligence Artificielle**, les **LLMs** et le **Développement Web** pour construire les outils qui optimiseront l'aviation de demain.
+
+Je suis une **"Builder"** : dès que j'identifie un problème ou un besoin (que ce soit en maintenance aéro ou en productivité), je code une solution, souvent sous forme de SaaS ou d'extension Chrome.
+
 ---
 
 ## 🛸 Mes Projets Phares
