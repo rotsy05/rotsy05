@@ -58,8 +58,8 @@ Voici une sélection des projets sur lesquels je travaille actuellement.
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_GITHUB]&show_icons=true&theme=radical&count_private=true" alt="Statistiques de [Ton Prénom]" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO_GITHUB]&layout=compact&theme=radical&hide=html" alt="Langages les plus utilisés par [Ton Prénom]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rotsy05&show_icons=true&theme=radical&count_private=true" alt="Statistiques de [Ton Prénom]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotsy05&layout=compact&theme=radical&hide=html" alt="Langages les plus utilisés par Rotsy" />
 </p>
 
 ---
