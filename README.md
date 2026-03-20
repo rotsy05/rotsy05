@@ -1,73 +1,67 @@
-# Salut ! 👋 Moi c'est Rotsy
+<img width="1440" height="3150" alt="image" src="https://github.com/user-attachments/assets/759f1176-fbed-413f-8697-f7e55b9b9b44" /># Hey, moi c'est Rotsy ✈️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Aeronautical_Engineering-eb3e3e?style=for-the-badge&logo=airbus&logoColor=white" alt="Aeronautical Engineering" />
-  <img src="https://img.shields.io/badge/-AI_%26_LLM-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/-SaaS_Development-44B78B?style=for-the-badge&logo=databricks&logoColor=white" alt="SaaS" />
-  <img src="https://img.shields.io/badge/-Web_Extension-fdd835?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Web Extension" />
+  <sub> Étudiante en ingénierie aéronautique ·Développeuse à temps perdus· Paris</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✦_Ingénierie_Aéronautique-%23FBEAF0?style=flat-square&color=FBEAF0" />
+  <img src="https://img.shields.io/badge/✦_IA_%26_LLMs-%23EEEDFE?style=flat-square&color=EEEDFE" />
+  <img src="https://img.shields.io/badge/✦_SaaS-%23FAECE7?style=flat-square&color=FAECE7" />
+  <img src="https://img.shields.io/badge/✦_Chrome_Extensions-%23E1F5EE?style=flat-square&color=E1F5EE" />
 </p>
 
 ---
 
 ## 🛫 Qui suis-je ?
 
-Étudiante passionnée en **Ingénierie Aéronautique**, je suis fascinée par la convergence entre les systèmes physiques complexes et la puissance du logiciel. Je ne me contente pas d'étudier comment les avions volent ; j'utilise l'**Intelligence Artificielle**, les **LLMs** et le **Développement Web** pour construire les outils qui optimiseront l'aviation de demain.
+Avant tout, je suis développeuse. J'ai grandi avec le code — c'est ma façon naturelle de penser, de résoudre, de construire.
 
-Je suis une **"Builder"** : dès que j'identifie un problème ou un besoin (que ce soit en maintenance aéro ou en productivité), je code une solution, souvent sous forme de SaaS ou d'extension Chrome.
+Aujourd'hui je fais mes études en **ingénierie aéronautique**, et c'est un terrain qui me passionne vraiment : des systèmes complexes, des contraintes critiques, une industrie où la rigueur n'est pas optionnelle. Mais quand je regarde autour de moi dans ce secteur, je vois des outils qui n'existent pas encore — et je me dis que je peux les écrire.
 
----
-
-## 🛸 Mes Projets Phares
-
-Voici une sélection des projets sur lesquels je travaille actuellement.
-
-### 🛠️ Aéronautique & IA (SaaS)
-
-| Projet | Description | Stack Technique |
-| :--- | :--- | :--- |
-| **DOC AERO** | **Le "ChatGPT" de la maintenance aéronautique.** Un LLM entraîné spécifiquement sur la documentation technique (AMM, IPC, SB, AD) pour permettre aux techniciens de poser des questions en langage naturel et d'obtenir des réponses instantanées et fiables. | `Python`, `LLM (Fine-tuning)`, `RAG`, `Vector DB`, `FastAPI` |
-
-### 🌐 Web & Impact Global
-
-| Projet | Description | Stack Technique |
-| :--- | :--- | :--- |
-| **Echoes** | Une plateforme web avec un **globe interactif** pour préserver le patrimoine linguistique mondial. Les utilisateurs cliquent sur une région, enregistrent leur voix, et l'IA s'occupe de l'analyse, la transcription et la traduction. | `React`, `Three.js` (Globe), `Web Audio API`, `Whisper API` |
-
-### 🧩 Extensions Chrome (Productivité & Utilitaires)
-
-| Projet | Statut | Description |
-| :--- | :--- | :--- |
-| **Bloomie** | **🚀 Publiée** | Une **To-Do List gamifiée** où chaque tâche complétée fait pousser une fleur numérique. Plus tu es productif, plus ton jardin grandit. |
-| **Repère** | En Dev | L'outil de "Social Shopping". Cherche automatiquement sur Vinted les vêtements repérés sur tes épingles Pinterest. |
-| **CVCible** | En Dev | Un générateur de CV intelligent qui adapte instantanément ton CV à une offre d'emploi spécifique grâce à l'IA. |
-| **Clipsy** | En Dev | Un gestionnaire d'onglets pour ouvrir en un clic des groupes d'onglets sauvegardés et organisés par thématique. |
+C'est là que les deux se rejoignent : des études qui me donnent le contexte, et du code pour faire quelque chose d'utile avec.
 
 ---
 
-## 🧰 Ma Boîte à Outils
+## ✨ Mes projets
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+### 🛠️ Aéronautique & IA
 
-## 📊 Statistiques GitHub
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotsy05&layout=compact&theme=radical&hide=html" alt="Langages les plus utilisés par Rotsy" />
-</p>
+| Projet | Qu'est-ce que c'est ? | Stack |
+| :--- | :--- | :--- |
+| **DOC AERO** | Un LLM entraîné sur la documentation technique aéronautique (AMM, IPC, SB, AD). Les techniciens interrogent les manuels en langage naturel au lieu de chercher à la main dans des centaines de pages. | `Python` · `RAG` · `FastAPI` · `Vector DB` |
+
+### 🌍 Web & Impact
+
+| Projet | Qu'est-ce que c'est ? | Stack |
+| :--- | :--- | :--- |
+| **Echoes** | Une plateforme de préservation du patrimoine linguistique avec un globe interactif. Les utilisateurs enregistrent leur voix sur une région du monde, l'IA transcrit et traduit. | `React` · `Three.js` · `Whisper API` |
+
+### 🧩 Extensions Chrome
+
+| Projet | Statut | Qu'est-ce que c'est ? |
+| :--- | :--- | :--- |
+| **Bloomie** | 🌸 Live | Une to-do list gamifiée où chaque tâche complétée fait pousser une fleur numérique. |
+| **Repère** | En dev | Recherche automatiquement sur Vinted les vêtements épinglés sur Pinterest. |
+| **CVCible** | En dev | Adapte un CV à une offre d'emploi spécifique grâce à l'IA. |
+| **Clipsy** | En dev | Gestionnaire d'onglets — ouvre en un clic des groupes d'onglets organisés par thématique. |
 
 ---
 
-## 🤝 Contactons-nous !
+## 🧰 Ma boîte à outils
 
-Je suis toujours ouverte aux discussions sur l'aviation, l'IA, le SaaS, ou une collaboration sur un projet innovant.
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-- 💼 **LinkedIn :** https://www.linkedin.com/in/rotsy-radaniela/
-- 📧 **Email :** rotsy.radaniela@estaca.eu
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdeering/mdeering/master/flying_plane.gif" width="200px" alt="Plane animation" />
-</p>
+## 🤝 On se connecte ?
+
+Toujours disponible pour parler d'un projet, d'une collaboration, ou simplement échanger.
+
+- 💼 [linkedin.com/in/rotsy-radaniela](https://www.linkedin.com/in/rotsy-radaniela/)
+- 📧 rotsy.radaniela@estaca.eu
