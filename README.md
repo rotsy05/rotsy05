@@ -1,7 +1,7 @@
-<img width="1440" height="3150" alt="image" src="https://github.com/user-attachments/assets/759f1176-fbed-413f-8697-f7e55b9b9b44" /># Hey, moi c'est Rotsy ✈️
+# Hey, moi c'est Rotsy ✈️
 
 <p align="center">
-  <sub> Étudiante en ingénierie aéronautique ·Développeuse à temps perdus· Paris</sub>
+  <sub> Étudiante en ingénierie aéronautique · Développeuse à temps perdus ·Paris</sub>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 🛫 Qui suis-je ?
 
-Avant tout, je suis développeuse. J'ai grandi avec le code — c'est ma façon naturelle de penser, de résoudre, de construire.
+J'ai grandi avec le code, c'est ma façon naturelle de penser, de résoudre, de construire.
 
 Aujourd'hui je fais mes études en **ingénierie aéronautique**, et c'est un terrain qui me passionne vraiment : des systèmes complexes, des contraintes critiques, une industrie où la rigueur n'est pas optionnelle. Mais quand je regarde autour de moi dans ce secteur, je vois des outils qui n'existent pas encore — et je me dis que je peux les écrire.
 
