@@ -17,7 +17,7 @@
 
 J'ai grandi avec le code, c'est ma façon naturelle de penser, de résoudre, de construire.
 
-Aujourd'hui je fais mes études en **ingénierie aéronautique**, et c'est un terrain qui me passionne vraiment : des systèmes complexes, des contraintes critiques, une industrie où la rigueur n'est pas optionnelle. Mais quand je regarde autour de moi dans ce secteur, je vois des outils qui n'existent pas encore — et je me dis que je peux les écrire.
+Aujourd'hui je fais mes études en **ingénierie aéronautique**, et c'est un terrain qui me passionne vraiment : des systèmes complexes, des contraintes critiques, une industrie où la rigueur n'est pas optionnelle. Mais quand je regarde autour de moi dans ce secteur, je vois des outils qui n'existent pas encore et je me dis que je peux les écrire.
 
 C'est là que les deux se rejoignent : des études qui me donnent le contexte, et du code pour faire quelque chose d'utile avec.
 
