@@ -42,9 +42,9 @@ C'est là que les deux se rejoignent : des études qui me donnent le contexte, e
 | Projet | Statut | Qu'est-ce que c'est ? |
 | :--- | :--- | :--- |
 | **Bloomie** | 🌸 Live | Une to-do list gamifiée où chaque tâche complétée fait pousser une fleur numérique. |
-| **Repère** | En dev | Recherche automatiquement sur Vinted les vêtements épinglés sur Pinterest. |
 | **CVCible** | En dev | Adapte un CV à une offre d'emploi spécifique grâce à l'IA. |
 | **Clipsy** | En dev | Gestionnaire d'onglets — ouvre en un clic des groupes d'onglets organisés par thématique. |
+| **Repère** | En dev | Recherche automatiquement sur Vinted les vêtements épinglés sur Pinterest. |
 
 ---
 
