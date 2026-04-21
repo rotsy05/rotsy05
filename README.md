@@ -29,6 +29,7 @@ C'est là que les deux se rejoignent : des études qui me donnent le contexte, e
 
 | Projet | Qu'est-ce que c'est ? | Stack |
 | :--- | :--- | :--- |
+| **Air-Launched Mini Rocket** | Système avionique embarqué pour une mini-fusée lancée depuis un UAV. Détection d'apogée par vitesse verticale, déploiement autonome du parachute, logging de vol en temps réel. | `MicroPython` · `ESP32` · `I2C` · `LoRa` · `PCB Design` |
 | **DOC AERO** | Un LLM entraîné sur la documentation technique aéronautique (AMM, IPC, SB, AD). Les techniciens interrogent les manuels en langage naturel au lieu de chercher à la main dans des centaines de pages. | `Python` · `RAG` · `FastAPI` · `Vector DB` |
 
 ### 🌍 Web & Impact
@@ -55,6 +56,8 @@ C'est là que les deux se rejoignent : des études qui me donnent le contexte, e
 ![C](https://img.shields.io/badge/c-FAECE7?style=flat-square&logo=c&logoColor=00599C)
 ![C#](https://img.shields.io/badge/c%23-E1F5EE?style=flat-square&logo=csharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/c++-FBEAF0?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![MicroPython](https://img.shields.io/badge/micropython-FBEAF0?style=flat-square&logo=micropython&logoColor=2B2728)
+![Raspberry Pi](https://img.shields.io/badge/ESP32-EEEDFE?style=flat-square&logo=espressif&logoColor=E7352C)
 ![CSS3](https://img.shields.io/badge/css3-EEEDFE?style=flat-square&logo=css3&logoColor=1572B6)
 ![Dart](https://img.shields.io/badge/dart-FAECE7?style=flat-square&logo=dart&logoColor=0175C2)
 ![HTML5](https://img.shields.io/badge/html5-E1F5EE?style=flat-square&logo=html5&logoColor=E34F26)
