@@ -70,7 +70,7 @@ Décrivez-moi votre besoin : je vous réponds rapidement avec une première esti
 
 <p align="center">
 <!-- TODO : remplacer VOTRE-PSEUDO par votre identifiant codeur.com -->
-<a href="https://www.codeur.com/-VOTRE-PSEUDO"><img src="https://img.shields.io/badge/Codeur.com-Me_confier_un_projet-EEEDFE?style=for-the-badge" /></a>
+<a href="https://www.codeur.com/"><img src="https://img.shields.io/badge/Codeur.com-Me_confier_un_projet-EEEDFE?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/rotsy-radaniela/"><img src="https://img.shields.io/badge/LinkedIn-Rotsy_Radaniela-E1F5EE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="mailto:rotsy.radaniela@estaca.eu"><img src="https://img.shields.io/badge/E--mail-Me_contacter-FBEAF0?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
