@@ -1,103 +1,76 @@
-# Hey, moi c'est Rotsy ✈️
+<h1 align="center">Rotsy Radaniela</h1>
 
 <p align="center">
-  <sub> Étudiante en ingénierie aéronautique · Développeuse à temps perdus ·Paris</sub>
+<b>Développeuse freelance · Web, IA & Extensions Chrome</b><br/>
+<sub>Élève ingénieure en aéronautique · Paris · Missions à distance</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦_Ingénierie_Aéronautique-%23FBEAF0?style=flat-square&color=FBEAF0" />
-  <img src="https://img.shields.io/badge/✦_IA_%26_LLMs-%23EEEDFE?style=flat-square&color=EEEDFE" />
-  <img src="https://img.shields.io/badge/✦_SaaS-%23FAECE7?style=flat-square&color=FAECE7" />
-  <img src="https://img.shields.io/badge/✦_Chrome_Extensions-%23E1F5EE?style=flat-square&color=E1F5EE" />
+<img src="https://img.shields.io/badge/●_Disponible_pour_missions-E1F5EE?style=flat-square" />
+<img src="https://img.shields.io/badge/✦_Web_%26_SaaS-EEEDFE?style=flat-square" />
+<img src="https://img.shields.io/badge/✦_IA_%26_LLMs-FBEAF0?style=flat-square" />
+<img src="https://img.shields.io/badge/✦_Extensions_Chrome-FAECE7?style=flat-square" />
 </p>
 
 ---
 
-## 🛫 Qui suis-je ?
+## 👋 En bref
 
-J'ai grandi avec le code, c'est ma façon naturelle de penser, de résoudre, de construire.
-
-Aujourd'hui je fais mes études en **ingénierie aéronautique**, et c'est un terrain qui me passionne vraiment : des systèmes complexes, des contraintes critiques, une industrie où la rigueur n'est pas optionnelle. Mais quand je regarde autour de moi dans ce secteur, je vois des outils qui n'existent pas encore et je me dis que je peux les écrire.
-
-C'est là que les deux se rejoignent : des études qui me donnent le contexte, et du code pour faire quelque chose d'utile avec.
+Je développe des **applications web, des outils IA et des extensions Chrome** sur mesure pour des indépendants, startups et PME. Ma formation d'ingénieure en aéronautique m'a appris la rigueur : un besoin bien compris, un code propre et documenté, des délais tenus.
 
 ---
 
-## ✨ Mes projets
+## 💼 Services
 
-### 🛠️ Aéronautique & IA
+| Service | Exemples de missions |
+| :--- | :--- |
+| **🌐 Sites & applications web** | Site vitrine, landing page, dashboard, application SaaS |
+| **🤖 IA & automatisation** | Chatbot sur vos documents, intégration d'API IA, scripts Python |
+| **🧩 Extensions Chrome** | Outil interne pour votre équipe, automatisation de tâches web |
+| **⚙️ Back-end & API** | Création d'API, base de données, mise en ligne |
 
-| Projet | Qu'est-ce que c'est ? | Stack |
-| :--- | :--- | :--- |
-| **Air-Launched Mini Rocket** | Système avionique embarqué pour une mini-fusée lancée depuis un UAV. Détection d'apogée par vitesse verticale, déploiement autonome du parachute, logging de vol en temps réel. | `MicroPython` · `ESP32` · `I2C` · `LoRa` · `PCB Design` |
-| **DOC AERO** | Un LLM entraîné sur la documentation technique aéronautique (AMM, IPC, SB, AD). Les techniciens interrogent les manuels en langage naturel au lieu de chercher à la main dans des centaines de pages. | `Python` · `RAG` · `FastAPI` · `Vector DB` |
-
-### 🌍 Web & Impact
-
-| Projet | Qu'est-ce que c'est ? | Stack |
-| :--- | :--- | :--- |
-| **Echoes** | Une plateforme de préservation du patrimoine linguistique avec un globe interactif. Les utilisateurs enregistrent leur voix sur une région du monde, l'IA transcrit et traduit. | `React` · `Three.js` · `Whisper API` |
-
-### 🧩 Extensions Chrome
-
-| Projet | Statut | Qu'est-ce que c'est ? |
-| :--- | :--- | :--- |
-| **Bloomie** | 🌸 Live | Une to-do list gamifiée où chaque tâche complétée fait pousser une fleur numérique. |
-| **CVCible** | En dev | Adapte un CV à une offre d'emploi spécifique grâce à l'IA. |
-| **Clipsy** | En dev | Gestionnaire d'onglets — ouvre en un clic des groupes d'onglets organisés par thématique. |
-| **Repère** | En dev | Recherche automatiquement sur Vinted les vêtements épinglés sur Pinterest. |
+**Comment je travaille :** échange sur votre besoin → devis clair (prix + délai) → versions intermédiaires à valider → livraison du code source documenté.
 
 ---
 
-## 🧰 Ma boîte à outils
+## ✨ Réalisations
 
-![Python](https://img.shields.io/badge/python-FBEAF0?style=flat-square&logo=python&logoColor=3670A0)
-![JavaScript](https://img.shields.io/badge/javascript-EEEDFE?style=flat-square&logo=javascript&logoColor=323330)
-![C](https://img.shields.io/badge/c-FAECE7?style=flat-square&logo=c&logoColor=00599C)
-![C#](https://img.shields.io/badge/c%23-E1F5EE?style=flat-square&logo=csharp&logoColor=239120)
-![C++](https://img.shields.io/badge/c++-FBEAF0?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![MicroPython](https://img.shields.io/badge/micropython-FBEAF0?style=flat-square&logo=micropython&logoColor=2B2728)
-![Raspberry Pi](https://img.shields.io/badge/ESP32-EEEDFE?style=flat-square&logo=espressif&logoColor=E7352C)
-![CSS3](https://img.shields.io/badge/css3-EEEDFE?style=flat-square&logo=css3&logoColor=1572B6)
-![Dart](https://img.shields.io/badge/dart-FAECE7?style=flat-square&logo=dart&logoColor=0175C2)
-![HTML5](https://img.shields.io/badge/html5-E1F5EE?style=flat-square&logo=html5&logoColor=E34F26)
-![Markdown](https://img.shields.io/badge/markdown-FBEAF0?style=flat-square&logo=markdown&logoColor=000000)
-![PowerShell](https://img.shields.io/badge/PowerShell-EEEDFE?style=flat-square&logo=powershell&logoColor=5391FE)
-![TypeScript](https://img.shields.io/badge/typescript-FAECE7?style=flat-square&logo=typescript&logoColor=007ACC)
-![Firebase](https://img.shields.io/badge/firebase-E1F5EE?style=flat-square&logo=firebase&logoColor=a08021)
-![Render](https://img.shields.io/badge/Render-FBEAF0?style=flat-square&logo=render&logoColor=46E3B7)
-![Vercel](https://img.shields.io/badge/vercel-EEEDFE?style=flat-square&logo=vercel&logoColor=000000)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-FAECE7?style=flat-square&logo=Cloudflare&logoColor=F38020)
-![Azure](https://img.shields.io/badge/azure-E1F5EE?style=flat-square&logo=microsoftazure&logoColor=0072C6)
-![Angular](https://img.shields.io/badge/angular-FBEAF0?style=flat-square&logo=angular&logoColor=DD0031)
-![Anaconda](https://img.shields.io/badge/Anaconda-EEEDFE?style=flat-square&logo=anaconda&logoColor=44A833)
-![Flutter](https://img.shields.io/badge/Flutter-FAECE7?style=flat-square&logo=Flutter&logoColor=02569B)
-![FastAPI](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&logo=fastapi&logoColor=005571)
-![NPM](https://img.shields.io/badge/NPM-FBEAF0?style=flat-square&logo=npm&logoColor=CB3837)
-![Next JS](https://img.shields.io/badge/Next-EEEDFE?style=flat-square&logo=next.js&logoColor=000000)
-![NodeJS](https://img.shields.io/badge/node.js-FAECE7?style=flat-square&logo=node.js&logoColor=6DA55F)
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **DOC AERO** | Assistant IA qui répond en langage naturel à partir de la documentation technique aéronautique. | `Python` · `RAG` · `FastAPI` |
+| **Echoes** | Plateforme avec globe 3D interactif : enregistrement vocal, transcription et traduction par IA. | `React` · `Three.js` · `Whisper` |
+| **Bloomie** 🌸 | Extension Chrome en ligne : to-do list gamifiée où chaque tâche fait pousser une fleur. | `JavaScript` |
+| **Mini-fusée avionique** | Système embarqué autonome : détection d'apogée, parachute, télémétrie temps réel. | `MicroPython` · `ESP32` · `LoRa` |
+
+<sub>Autres extensions Chrome en cours : CVCible, Clipsy, Repère.</sub>
+
+---
+
+## 🧰 Technologies
+
 ![React](https://img.shields.io/badge/react-E1F5EE?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-EEEDFE?style=flat-square&logo=next.js&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/typescript-FAECE7?style=flat-square&logo=typescript&logoColor=007ACC)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-FBEAF0?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![Three.js](https://img.shields.io/badge/threejs-EEEDFE?style=flat-square&logo=three.js&logoColor=000000)
+![NodeJS](https://img.shields.io/badge/node.js-FAECE7?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Python](https://img.shields.io/badge/python-FBEAF0?style=flat-square&logo=python&logoColor=3670A0)
+![FastAPI](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&logo=fastapi&logoColor=005571)
+![Firebase](https://img.shields.io/badge/firebase-E1F5EE?style=flat-square&logo=firebase&logoColor=a08021)
 ![MySQL](https://img.shields.io/badge/mysql-FAECE7?style=flat-square&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/sqlite-E1F5EE?style=flat-square&logo=sqlite&logoColor=07405e)
-![Blender](https://img.shields.io/badge/blender-FBEAF0?style=flat-square&logo=blender&logoColor=F5792A)
-![Canva](https://img.shields.io/badge/Canva-EEEDFE?style=flat-square&logo=Canva&logoColor=00C4CC)
-![Photoshop](https://img.shields.io/badge/photoshop-FAECE7?style=flat-square&logo=adobe%20photoshop&logoColor=31A8FF)
-![Figma](https://img.shields.io/badge/figma-E1F5EE?style=flat-square&logo=figma&logoColor=F24E1E)
-![NumPy](https://img.shields.io/badge/numpy-FBEAF0?style=flat-square&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/pandas-EEEDFE?style=flat-square&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FAECE7?style=flat-square&logo=Matplotlib&logoColor=000000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E1F5EE?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FBEAF0?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-EEEDFE?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
-![SciPy](https://img.shields.io/badge/SciPy-FAECE7?style=flat-square&logo=scipy&logoColor=0C55A5)
+![Vercel](https://img.shields.io/badge/vercel-EEEDFE?style=flat-square&logo=vercel&logoColor=000000)
 ![Git](https://img.shields.io/badge/git-E1F5EE?style=flat-square&logo=git&logoColor=F05033)
+![Figma](https://img.shields.io/badge/figma-E1F5EE?style=flat-square&logo=figma&logoColor=F24E1E)
+
 ---
 
-## 🤝 On se connecte ?
+## 📬 Parlons de votre projet
 
-Toujours disponible pour parler d'un projet, d'une collaboration, ou simplement échanger.
+Décrivez-moi votre besoin : je vous réponds rapidement avec une première estimation, sans engagement.
 
-- 💼 [linkedin.com/in/rotsy-radaniela](https://www.linkedin.com/in/rotsy-radaniela/)
-- 📧 rotsy.radaniela@estaca.eu
+<p align="center">
+<!-- TODO : remplacer VOTRE-PSEUDO par votre identifiant codeur.com -->
+<a href="https://www.codeur.com/-VOTRE-PSEUDO"><img src="https://img.shields.io/badge/Codeur.com-Me_confier_un_projet-EEEDFE?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/rotsy-radaniela/"><img src="https://img.shields.io/badge/LinkedIn-Rotsy_Radaniela-E1F5EE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:rotsy.radaniela@estaca.eu"><img src="https://img.shields.io/badge/E--mail-Me_contacter-FBEAF0?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
