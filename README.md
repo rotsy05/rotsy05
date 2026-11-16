@@ -1,76 +1,134 @@
-<h1 align="center">Rotsy Radaniela</h1>
-
+<!-- En-tête -->
 <p align="center">
-<b>Développeuse freelance · Web, IA & Extensions Chrome</b><br/>
-<sub>Élève ingénieure en aéronautique · Paris · Missions à distance</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rotsy%20Radaniela&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeuse%20freelance%20Python%20%26%20IA&descSize=18&descAlignY=58" alt="Rotsy Radaniela, développeuse freelance Python & IA" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/●_Disponible_pour_missions-E1F5EE?style=flat-square" />
-<img src="https://img.shields.io/badge/✦_Web_%26_SaaS-EEEDFE?style=flat-square" />
-<img src="https://img.shields.io/badge/✦_IA_%26_LLMs-FBEAF0?style=flat-square" />
-<img src="https://img.shields.io/badge/✦_Extensions_Chrome-FAECE7?style=flat-square" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Automatisation+de+t%C3%A2ches+en+Python;Assistants+IA+sur+vos+documents;Extensions+Chrome+sur+mesure;Applications+web+React" alt="Automatisation · Assistants IA · Extensions Chrome · Applications web" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Me_contacter-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="LIEN_CODEUR"><img src="https://img.shields.io/badge/Codeur.com-FF6B35?style=for-the-badge&logoColor=white" alt="Codeur.com" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Disponible-missions_freelance-2ea44f?style=flat-square" alt="Disponible pour missions freelance" />
+  <img src="https://img.shields.io/badge/Langues-FR_%7C_EN-555555?style=flat-square" alt="Français et anglais" />
+  <img src="https://img.shields.io/badge/Localisation-%C3%8Ele--de--France_%7C_Remote-555555?style=flat-square" alt="Île-de-France, à distance" />
+</p>
+
+<br />
+
+<p align="center">
+  Élève ingénieure en aéronautique (ESTACA), je conçois des outils sur mesure qui font gagner du temps :<br />
+  <b>du script qui automatise une tâche répétitive à l'assistant IA qui exploite vos documents.</b>
 </p>
 
 ---
 
-## 👋 En bref
+## Services
 
-Je développe des **applications web, des outils IA et des extensions Chrome** sur mesure pour des indépendants, startups et PME. Ma formation d'ingénieure en aéronautique m'a appris la rigueur : un besoin bien compris, un code propre et documenté, des délais tenus.
-
----
-
-## 💼 Services
-
-| Service | Exemples de missions |
-| :--- | :--- |
-| **🌐 Sites & applications web** | Site vitrine, landing page, dashboard, application SaaS |
-| **🤖 IA & automatisation** | Chatbot sur vos documents, intégration d'API IA, scripts Python |
-| **🧩 Extensions Chrome** | Outil interne pour votre équipe, automatisation de tâches web |
-| **⚙️ Back-end & API** | Création d'API, base de données, mise en ligne |
-
-**Comment je travaille :** échange sur votre besoin → devis clair (prix + délai) → versions intermédiaires à valider → livraison du code source documenté.
-
----
-
-## ✨ Réalisations
-
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **DOC AERO** | Assistant IA qui répond en langage naturel à partir de la documentation technique aéronautique. | `Python` · `RAG` · `FastAPI` |
-| **Echoes** | Plateforme avec globe 3D interactif : enregistrement vocal, transcription et traduction par IA. | `React` · `Three.js` · `Whisper` |
-| **Bloomie** 🌸 | Extension Chrome en ligne : to-do list gamifiée où chaque tâche fait pousser une fleur. | `JavaScript` |
-| **Mini-fusée avionique** | Système embarqué autonome : détection d'apogée, parachute, télémétrie temps réel. | `MicroPython` · `ESP32` · `LoRa` |
-
-<sub>Autres extensions Chrome en cours : CVCible, Clipsy, Repère.</sub>
-
----
-
-## 🧰 Technologies
-
-![React](https://img.shields.io/badge/react-E1F5EE?style=flat-square&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-EEEDFE?style=flat-square&logo=next.js&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/typescript-FAECE7?style=flat-square&logo=typescript&logoColor=007ACC)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-FBEAF0?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![NodeJS](https://img.shields.io/badge/node.js-FAECE7?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Python](https://img.shields.io/badge/python-FBEAF0?style=flat-square&logo=python&logoColor=3670A0)
-![FastAPI](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&logo=fastapi&logoColor=005571)
-![Firebase](https://img.shields.io/badge/firebase-E1F5EE?style=flat-square&logo=firebase&logoColor=a08021)
-![MySQL](https://img.shields.io/badge/mysql-FAECE7?style=flat-square&logo=mysql&logoColor=4479A1)
-![PyTorch](https://img.shields.io/badge/PyTorch-E1F5EE?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-![Vercel](https://img.shields.io/badge/vercel-EEEDFE?style=flat-square&logo=vercel&logoColor=000000)
-![Git](https://img.shields.io/badge/git-E1F5EE?style=flat-square&logo=git&logoColor=F05033)
-![Figma](https://img.shields.io/badge/figma-E1F5EE?style=flat-square&logo=figma&logoColor=F24E1E)
-
----
-
-## 📬 Parlons de votre projet
-
-Décrivez-moi votre besoin : je vous réponds rapidement avec une première estimation, sans engagement.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automatisation</h3>
+      Scripts Python, traitement de fichiers Excel / CSV, extraction de données, intégrations entre vos outils via API.<br /><br />
+      <i>Démo sur demande</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Assistants IA</h3>
+      Assistant conversationnel qui répond à partir de vos PDF, manuels ou procédures (RAG, API OpenAI / Claude).<br /><br />
+      <a href="LIEN_DEMO_DOC_AERO"><b>Voir la démo DOC AERO →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 Extensions Chrome</h3>
+      Conception, développement et publication d'extensions de navigateur sur mesure.<br /><br />
+      <a href="https://bloomie-one.vercel.app"><b>Voir la démo Bloomie →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Applications web</h3>
+      Pages vitrines, prototypes et interfaces React modernes et responsives.<br /><br />
+      <a href="LIEN_DEMO_ECHOES"><b>Voir la démo Echoes →</b></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<!-- TODO : remplacer VOTRE-PSEUDO par votre identifiant codeur.com -->
-<a href="https://www.codeur.com/"><img src="https://img.shields.io/badge/Codeur.com-Me_confier_un_projet-EEEDFE?style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/rotsy-radaniela/"><img src="https://img.shields.io/badge/LinkedIn-Rotsy_Radaniela-E1F5EE?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:rotsy.radaniela@estaca.eu"><img src="https://img.shields.io/badge/E--mail-Me_contacter-FBEAF0?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <b>Devis détaillé avant démarrage</b> &nbsp;·&nbsp; <b>Points d'avancement réguliers</b> &nbsp;·&nbsp; <b>Livraison documentée + vidéo de démo</b>
+</p>
+
+---
+
+## Réalisations
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Remplacer par une capture : <img src="URL_CAPTURE_DOC_AERO" width="100%" /> -->
+      <h3>DOC AERO</h3>
+      <p>Assistant IA qui répond aux questions à partir de manuels techniques aéronautiques, en citant ses sources.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-555555?style=flat-square" />
+      <br /><br />
+      <a href="LIEN_DEMO_DOC_AERO"><b>Démo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Remplacer par une capture : <img src="URL_CAPTURE_ECHOES" width="100%" /> -->
+      <h3>Echoes</h3>
+      <p>Plateforme de préservation des langues du monde : globe interactif et transcription automatique d'enregistrements audio.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Whisper_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <br /><br />
+      <a href="LIEN_DEMO_ECHOES"><b>Démo →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Remplacer par une capture : <img src="URL_CAPTURE_BLOOMIE" width="100%" /> -->
+      <h3>Bloomie</h3>
+      <p>To-do list gamifiée qui bloque les sites distrayants jusqu'à ce que les tâches soient terminées.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br /><br />
+      <a href="https://bloomie-one.vercel.app"><b>Démo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Remplacer par une capture : <img src="URL_CAPTURE_FUSEE" width="100%" /> -->
+      <h3>Avionique de mini-fusée</h3>
+      <p>Système embarqué d'une fusée larguée depuis un drone : détection de l'apogée, déploiement du parachute, télémétrie en vol.</p>
+      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/LoRa-555555?style=flat-square" />
+      <br /><br />
+      <a href="https://github.com/rotsy05/airlaunched-mini-rocket"><b>Projet →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack technique
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,html,css,linux,git,github,vercel&theme=light" alt="Python, FastAPI, JavaScript, TypeScript, React, HTML, CSS, Linux, Git, GitHub, Vercel" />
+</p>
+
+---
+
+<p align="center">
+  <b>Un projet en tête ?</b> Parlons-en, réponse sous 24 h.<br /><br />
+  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Discutons_de_votre_projet-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Discutons de votre projet" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="" />
 </p>
